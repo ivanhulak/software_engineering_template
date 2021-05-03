@@ -10,4 +10,4 @@
 
 [Методичні вказівки](https://jace-dev.herokuapp.com/design/js-talks#/)
 
-[Звітність](https://drive.google.com/file/d/1A5Pxqb0Esy78t9xhMlkWzzx4chdkXAl2/view?usp=sharing)
+[Звітність](https://github.com/ivanhulak/software_engineering_template/blob/master/Report.md)
