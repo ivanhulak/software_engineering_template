@@ -5,3 +5,5 @@ const person = new Object({
 		console.log("Greet!")
 	}
 })
+
+module.exports = person
