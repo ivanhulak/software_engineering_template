@@ -410,3 +410,7 @@ __Насправді це все, що стосується класів. Тут
 ___
 
 Матеріал підготував: студент групи ІВ-93 [Гулак Іван](https://github.com/ivanhulak)..
+___
+Вихідні файли проектів:
+
+https://github.com/ivanhulak/software_engineering_template
