@@ -1,5 +1,5 @@
 /**
-* Создаём объект person 
+* Создаём объект person с такими полями:
 * @param {string} name Имя
 * @param {number} age Возраст
 * @param {function} greet Функция, которая выводит в консоль слово Greet
